@@ -150,6 +150,8 @@ then
   else
     fail "error installing dependencies"
   fi
+  brew install fzf
+  /usr/local/opt/fzf/install
 fi
 
 echo ''
