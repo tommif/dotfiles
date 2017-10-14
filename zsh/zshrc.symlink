@@ -48,4 +48,5 @@ export NVM_DIR="$HOME/.nvm"
 
 eval "$(rbenv init -)"
 unsetopt share_history
+unsetopt correct_all
 
