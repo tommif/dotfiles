@@ -14,8 +14,6 @@
 		"GitGutter",
 		"Github Tools",
 		"Jinja2",
-		"LESS",
-		"lessc",
 		"MagicPython",
 		"Markdown Preview",
 		"Package Control",
@@ -25,9 +23,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-flake8",
-		"SublimeLinter-jshint",
 		"SublimeLinter-pylint",
-		"SublimeREPL",
 		"TrailingSpaces"
 	]
 }
