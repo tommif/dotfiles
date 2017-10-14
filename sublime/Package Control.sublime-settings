@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"Color Highlighter",
+		"Cython",
+		"Dockerfile Syntax Highlighting",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Jinja2",
+		"LESS",
+		"lessc",
+		"MagicPython",
+		"Markdown Preview",
+		"Package Control",
+		"Protocol Buffer Syntax",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"TrailingSpaces"
+	]
+}
