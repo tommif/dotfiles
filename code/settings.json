@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.iconTheme": "vs-minimal",
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "workbench.fontAliasing": "antialiased",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Source Code Pro, Menlo, Monaco, 'Courier New', monospace"
+}
