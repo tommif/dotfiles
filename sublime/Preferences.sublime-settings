@@ -21,6 +21,7 @@
 	"ignored_packages":
 	[
 		"Python",
+		"SublimeLinter-flake8",
 		"Vintage"
 	],
 	"rulers":

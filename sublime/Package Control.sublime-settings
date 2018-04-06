@@ -21,7 +21,7 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
 		"SublimeLinter-pylint",
 		"TrailingSpaces"
