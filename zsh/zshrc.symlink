@@ -50,3 +50,10 @@ eval "$(rbenv init -)"
 unsetopt share_history
 unsetopt correct_all
 
+
+# tabtab source for serverless package
+# uninstall by removing these lines or running `tabtab uninstall serverless`
+[[ -f /Users/paulus/dev/python/hass-cloud/node_modules/tabtab/.completions/serverless.zsh ]] && . /Users/paulus/dev/python/hass-cloud/node_modules/tabtab/.completions/serverless.zsh
+# tabtab source for sls package
+# uninstall by removing these lines or running `tabtab uninstall sls`
+[[ -f /Users/paulus/dev/python/hass-cloud/node_modules/tabtab/.completions/sls.zsh ]] && . /Users/paulus/dev/python/hass-cloud/node_modules/tabtab/.completions/sls.zsh
