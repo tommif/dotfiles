@@ -14,13 +14,13 @@
         100
     ],
     "workbench.fontAliasing": "antialiased",
-    "editor.fontSize": 14,
+    "editor.fontSize": 12,
     "python.linting.flake8Enabled": true,
     "python.linting.pydocstyleEnabled": true,
     "python.linting.pylintEnabled": true,
     "files.trimTrailingWhitespace": true,
     "python.pythonPath": "${workspaceRoot}/bin/python3",
-    "editor.fontFamily": "Consolas",
+
     "eslint.validate": [
         "javascript",
         "javascriptreact",
@@ -28,5 +28,5 @@
     ],
     "liveServer.settings.donotShowInfoMsg": true,
     "path-autocomplete.extensionOnImport": true,
-    "liveServer.settings.donotVerifyTags": true
+    "liveServer.settings.donotVerifyTags": true,
 }

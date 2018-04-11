@@ -154,5 +154,8 @@ then
   /usr/local/opt/fzf/install
 fi
 
+ln -sf "$HOME/.dotfiles/code/settings.json" "$HOME/Library/Application Support/Code/User/settings.json"
+ln -sf "$HOME/.dotfiles/sublime" "$HOME/Library/Application Support/Sublime Text 3/Packages/User"
+
 echo ''
 echo '  All installed!'
