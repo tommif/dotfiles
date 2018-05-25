@@ -1,6 +1,7 @@
 alias reload!='. ~/.zshrc'
 alias ha='cd ~/dev/hass/home-assistant'
-alias haweb='cd ~/dev/hass/home-assistant-polymer/ && nvm use'
+alias haweb='cd ~/dev/hass/home-assistant-polymer/ && nvm use --delete-prefix'
 alias hajs='cd ~/dev/hass/home-assistant-js-websocket'
 alias haio='cd ~/dev/hass/home-assistant.github.io'
-
+alias had='cd ~/dev/hass/developers.home-assistant'
+alias hass='nocorrect hass'

@@ -29,4 +29,18 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "path-autocomplete.extensionOnImport": true,
     "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "explorer.openEditors.visible": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/__pycache__": true
+    },
+    "window.closeWhenEmpty": false
 }
