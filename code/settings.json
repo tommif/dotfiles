@@ -3,7 +3,7 @@
     "workbench.iconTheme": "vs-minimal",
     "window.zoomLevel": 1,
     "editor.minimap.enabled": false,
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Night Owl",
     "workbench.colorCustomizations": {
         "statusBar.background" : "#1A1A1A",
         "statusBar.noFolderBackground" : "#212121",
