@@ -42,5 +42,7 @@
         "**/.DS_Store": true,
         "**/__pycache__": true
     },
-    "window.closeWhenEmpty": false
+    "window.closeWhenEmpty": false,
+    "files.insertFinalNewline": true,
+    "python.jediEnabled": false
 }
