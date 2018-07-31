@@ -5,8 +5,8 @@
     "editor.minimap.enabled": false,
     "workbench.colorTheme": "Night Owl",
     "workbench.colorCustomizations": {
-        "statusBar.background" : "#1A1A1A",
-        "statusBar.noFolderBackground" : "#212121",
+        "statusBar.background": "#1A1A1A",
+        "statusBar.noFolderBackground": "#212121",
         "statusBar.debuggingBackground": "#263238"
     },
     "editor.rulers": [
@@ -20,7 +20,6 @@
     "python.linting.pylintEnabled": true,
     "files.trimTrailingWhitespace": true,
     "python.pythonPath": "${workspaceRoot}/bin/python3",
-
     "eslint.validate": [
         "javascript",
         "javascriptreact",
@@ -44,5 +43,9 @@
     },
     "window.closeWhenEmpty": false,
     "files.insertFinalNewline": true,
-    "python.jediEnabled": false
+    "python.jediEnabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+
+    },
 }
