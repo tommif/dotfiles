@@ -1,0 +1,4 @@
+CURDIR=`pwd`
+cd /Users/paulus/dev/hass/hass-release
+python3 -m hassrelease milestone_close
+cd $CURDIR
