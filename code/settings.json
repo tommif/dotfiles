@@ -50,4 +50,11 @@
     },
     "editor.tabSize": 2,
     "typescript.updateImportsOnFileMove.enabled": "always",
+    "github.hosts": [
+        {
+            "host": "https://github.com",
+            "username": "oauth",
+            "token": "system"
+        }
+    ],
 }
